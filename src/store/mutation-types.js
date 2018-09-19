@@ -1,0 +1,2 @@
+export const SELECTED_NAV_INDEX = 'SELECTED_NAV_INDEX'
+export const TABBAR_LIST = 'TABBAR_LIST'

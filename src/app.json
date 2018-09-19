@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/products/main",
+    "pages/contact/main",
+    "pages/html5/main",
+    "pages/map/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/main",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/products/main",
+        "text": "产品展示"
+      },
+      {
+        "pagePath": "pages/contact/main",
+        "text": "联系我们"
+      }
+    ]
+  }
+  
+}
